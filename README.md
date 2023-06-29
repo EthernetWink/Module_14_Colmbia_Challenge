@@ -11,7 +11,7 @@ The first model has the result of
 
 
 
-The second
+The second 
 ![TREE_plot](https://github.com/EthernetWink/Module_14_Colmbia_Challenge/assets/91394235/aa38f191-facf-4bb9-a0c2-920b446e83b7)
 
 What is interesting is these two different models yeild very similar results.
